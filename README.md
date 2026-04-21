@@ -5,3 +5,7 @@ programación orientada a objetos
 
 # objetos
 <img width="369" height="336" alt="image" src="https://github.com/user-attachments/assets/8757a40f-75e1-4777-9ec6-cb1fbf277ecd" />
+
+# clase de objetos
+
+<img width="445" height="434" alt="image" src="https://github.com/user-attachments/assets/c26ea858-4e7f-4d81-a7ee-c5712b17b13c" />
